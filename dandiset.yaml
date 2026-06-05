@@ -45,7 +45,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Ghaderi, Parviz; Crochet, Sylvain; Petersen, Carl (2026) Contextual gating
   of whisker-evoked responses by frontal cortex supports flexible decision making
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001530/draft
+  (Version 0.260605.0601) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001530/0.260605.0601
 contributor:
 - affiliation:
   - identifier: https://ror.org/02s376052
@@ -106,22 +106,36 @@ contributor:
   schemaKey: Organization
   url: https://www.snf.ch/en
 dateCreated: '2025-07-04T18:16:13.067910+00:00'
+datePublished: '2026-06-05T06:01:24.822183+00:00'
 description: 'Data related to the publication: Ghaderi et al., Nature Communications,
   2026, https://doi.org/10.1038/s41467-026-73622-y. Processed data and code are available
   via Zenodo: https://doi.org/10.5281/zenodo.17973874 and GitHub: https://github.com/LSENS-BMI-EPFL/Ghaderi_et_al_NCOMMS_2026.'
+doi: 10.48324/dandi.001530/0.260605.0601
 ethicsApproval: []
-id: DANDI:001530/draft
+id: DANDI:001530/0.260605.0601
 identifier: DANDI:001530
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001530/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001530/0.260605.0601/assets.yaml
 name: Contextual gating of whisker-evoked responses by frontal cortex supports flexible
   decision making
+publishedBy:
+  endDate: '2026-06-05T06:01:24.822183+00:00'
+  id: urn:uuid:8cda7638-7f93-40f3-a499-57c8e0d8cfe7
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-06-05T06:01:24.822183+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:c083864f-b586-4d01-b340-d9ecdcd9cd1d
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001530/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001530/0.260605.0601
+version: 0.260605.0601
 wasGeneratedBy: []
